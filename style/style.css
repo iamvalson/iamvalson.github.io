@@ -808,7 +808,7 @@ nav #icon {
 
 .cancelled{
   color: rgba(128, 128, 128, 0.664);
-  text-decoration: line-through rgba(128, 128, 128, 0.664) ;
+  text-decoration: line-through;
   margin-top: 2px;
 }
 
